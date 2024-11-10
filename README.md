@@ -1,3 +1,7 @@
+<h2 align="center">👋 Hi There! Welcome to my Github</h2>
+
+###
+
 <h2 align="left">About Me</h2>
 
 ###
@@ -76,5 +80,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mhenriqueo/mhenriqueo/output/snake.svg" alt="Snake animation" />
 
 ###
