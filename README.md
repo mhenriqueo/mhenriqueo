@@ -82,7 +82,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/mhenriqueo/mhenriqueo/output/snake.svg" alt="Snake animation" />
-
-###
